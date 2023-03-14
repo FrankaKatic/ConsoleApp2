@@ -1,5 +1,5 @@
 ﻿using System;
-
+//evo ti za blameat
 namespace ConsoleApp2
 {
     class Program
